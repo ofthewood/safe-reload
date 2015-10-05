@@ -11,7 +11,8 @@ Package.onUse(function(api) {
   api.addFiles("safe-reload.js", ["client"]);
   api.export(["SafeReload"], ["client"]);
 });
-
+/*
 Cordova.depends({
   "com.percolatestudio.cordova.safereload": "https://github.com/percolatestudio/cordova-plugin-safe-reload/tarball/527527b708f3ea587a307f78d20b4bbc9466a0b2"
 });
+*/
